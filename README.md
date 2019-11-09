@@ -25,20 +25,20 @@ model.add(Dense(n_outputs, activation='softmax'))
 ```
 
 # Description
-- **Activity Types** for **HASC** dataset
+- **Activity Types** for **HASC** dataset <br/>
 ![](images/activitieshasc.png)
 
-- **Activity plot** for **WISDM** dataset
+- **Activity plot** for **WISDM** dataset  <br/>
 ![](images/activitieswisdm.png)
 
-- **Activities** for **SingleChest** dataset
+- **Activities** for **SingleChest** dataset <br/>
 ![](images/singlechestactivities.png)
 
-- **Confusion Matrix** using **CNN** for **HASC** dataset
+- **Confusion Matrix** using **CNN** for **HASC** dataset <br/>
 ![](images/cmhasc.png)
 
-- **Confusion Matrix** using **CNN** for **WISDM** dataset
+- **Confusion Matrix** using **CNN** for **WISDM** dataset <br/>
 ![](images/cmwisdm.png)
 
-- **Confusion Matrix** using **CNN** for **SingleChest** dataset
-![](images/singlechestactivities.png)
+- **Confusion Matrix** using **CNN** for **SingleChest** dataset <br/>
+![](images/cmsinglechest.png)
